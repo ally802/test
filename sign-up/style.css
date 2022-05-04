@@ -1,0 +1,16 @@
+#header{height:90px;background:#fff}
+header{font-size:30px;width:1260px;margin:0 auto} 
+h1, nav{display:inline-block;float:left}
+h1{font-size:1em}
+h1 a{color:#282a35;display:inline-block;padding:25px;text-decoration:none;height:90px;box-sizing:border-box}
+nav{text-align:center;float:right;}
+nav a{color:#000000;text-decoration:none;padding:25px 30px;display:inline-block;font-size:18px;font-weight:500;font-family:'Segoe UI';line-height:40px}
+nav a:hover{border-bottom:3px solid #282a35;padding-bottom:22px;color:#000000}
+li{list-style:none}
+
+.wrapper{display:flex;justify-content:center;align-items:center;min-height:100vh}
+form{width:627px;height:712px;font-size:1rem;border:1px solid #707070;padding:86px 86px 54px}
+.signlogo{display:block;margin:0 auto;margin-bottom:50px}
+.smform{padding:0px 100px}
+
+
