@@ -1,0 +1,5 @@
+.post-card-container{width:40vw;border:1px solid #000}
+.post-thumb-container{height:40vw}
+.post-content-container{height:6.2vw;padding:1.5vw 2.8vw;border-top:1px solid #000;font-family:'Noto Sans KR',sans-serif}
+.user-id-area p{margin:0;font-size:1.3vw;text-decoration:underline}
+.post-title-area p{margin:0;font-size:2.3vw}
