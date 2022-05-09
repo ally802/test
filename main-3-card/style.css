@@ -1,6 +1,6 @@
-.post-card-container{width:25vw;border:1.4px solid #000}
+.post-card-container{width:25vw;border:0.1vw solid #000}
 .post-thumb-container{height:25vw;background-color:#ccc;}
-.post-content-container{height:3.4vw;padding:1vw 1.7vw;border-top:1.4px solid #000;font-family:'Noto Sans KR',sans-serif}
+.post-content-container{height:3.4vw;padding:1vw 1.7vw;border-top:0.1vw solid #000;font-family:'Noto Sans KR',sans-serif}
 .user-id-area p{margin:0;font-size:0.85vw;text-decoration:underline}
 .post-title-area p{margin:0;font-size:1.5vw}
 .container{display:flex;justify-content:space-evenly}
